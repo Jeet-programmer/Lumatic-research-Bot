@@ -1,0 +1,9 @@
+beautifulsoup4
+chromadb
+flask
+flask-cors
+google-generativeai
+requests
+html5lib
+openai
+uvicorn
